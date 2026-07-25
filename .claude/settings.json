@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "my-first-mcp": {
+      "command": "python",
+      "args": ["D:/codeproj/agentlearn/tutorial/03-mcp-server/weather_server.py"]
+    }
+  }
+}
